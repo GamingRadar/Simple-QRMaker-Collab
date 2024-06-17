@@ -1,6 +1,7 @@
 #Simple QR Maker
   Simple QR Maker is a Collab application that allows users to generate QR codes from URLs and download them. This project aims to provide a straightforward interface for creating and saving QR codes easily.
 
+Link for File - https://colab.research.google.com/drive/1epfhEl-Yklf9dffZbEtpNzOoXQd04lFG?usp=sharing
 
 #Features
  Generate QR codes from URLs.
